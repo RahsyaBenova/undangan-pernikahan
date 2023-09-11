@@ -420,6 +420,7 @@ footer li{
 }
 /* Media Query */
 /* extra large */
+
 @media(max-width: 1200px){
     .home .heart{
         transform: translateX(-50%) translateY(45px);
@@ -546,4 +547,15 @@ footer li{
         top: 31px;
         
     }
+
+    
+    .sticky-top{
+        overflow: hidden;
+    }
+
+    html, body{
+        overflow-x: hidden;
+    }
+
+
 }
