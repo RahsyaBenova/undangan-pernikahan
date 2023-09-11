@@ -503,9 +503,7 @@ footer li{
         font-size: 1.3rem;
     }
 
-    .sticky-top{
-        overflow: hidden;
-    }
+   
 
     .timeline li .timeline-img{
         width: 140px;
@@ -549,9 +547,7 @@ footer li{
     }
 
     
-    .sticky-top{
-        overflow: hidden;
-    }
+    
 
     html, body{
         overflow-x: hidden;
